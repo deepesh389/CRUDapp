@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .Danger {
+  background-color: rgb(237, 95, 95);
+}
+
+.add {
+  background-color: rgb(118, 118, 235);
+}
+
+.view {
+  background-color: rgb(101, 241, 101);
+} */
+
+.head {
+  margin-top: 10px;
+}
+
+/* .tab{
+  background-color: red;
+} */
+
+/* .body{
+  background-color: antiquewhite;
+} */
